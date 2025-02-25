@@ -1,0 +1,17 @@
+body {
+  padding: 0px;
+  margin: 0pxS;
+  background-image: url(../image/m.jpg);
+  background-size: cover;
+}
+div {
+  color: aliceblue;
+  background-color: #000000b3;
+  margin: auto;
+  width: 350px;
+
+  padding: 20px;
+  height: 300px;
+  background-size: cover;
+  border-radius: 2px;
+}
