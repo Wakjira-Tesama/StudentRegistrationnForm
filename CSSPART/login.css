@@ -15,3 +15,24 @@ div {
   background-size: cover;
   border-radius: 2px;
 }
+.hed {
+  text-align: center;
+  box-shadow: 10px 10px 10px white;
+  border-radius: 8px;
+}
+
+input {
+  background-color: transparent;
+  border: none;
+  /* border-bottom: 2px solid black; */
+  height: 20px;
+  width: 100%;
+
+  font-size: 15px;
+  margin-top: 40px;
+  opacity: 0.7;
+  color: white;
+}
+input:hover {
+  box-shadow: 20px 20px 20px black;
+}
