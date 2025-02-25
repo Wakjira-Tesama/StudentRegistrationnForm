@@ -36,3 +36,30 @@ input {
 input:hover {
   box-shadow: 20px 20px 20px black;
 }
+button {
+  background-color: orange;
+  color: aliceblue;
+  margin: auto;
+  width: 100px;
+  border: none;
+  border-radius: 10px;
+  height: 30px;
+  font-size: 15px;
+  font-weight: bold;
+  margin-left: 35%;
+}
+button:hover {
+  background-color: rosybrown;
+  opacity: 0.4;
+  cursor: pointer;
+  box-shadow: 10px 10px 20px black;
+}
+.W {
+  text-align: center;
+  box-shadow: 20px 20px 10px white;
+  width: 300px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 13px;
+}
